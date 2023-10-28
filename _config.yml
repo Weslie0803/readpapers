@@ -106,3 +106,10 @@ theme: Hacker
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Menu
+menu:
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  Tags: /tags
